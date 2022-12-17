@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: 7412fa6cdc41d1e40aabab567f89c15f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6407313627973021537
+    second: youbi_0
+  - first:
+      213: -3067813593807589899
+    second: youbi_1
+  - first:
+      213: 2463682798624843235
+    second: youbi_2
+  - first:
+      213: -1374104933364384602
+    second: youbi_3
+  - first:
+      213: -5532367926454932561
+    second: youbi_4
+  - first:
+      213: 2428443109219844840
+    second: youbi_5
+  - first:
+      213: 7768598858267305113
+    second: youbi_6
+  - first:
+      213: 7341705309729032541
+    second: youbi_7
+  - first:
+      213: -1607418270963081954
+    second: youbi_8
+  - first:
+      213: 5256350527250650909
+    second: youbi_9
+  - first:
+      213: -2404413061348566824
+    second: youbi_10
+  - first:
+      213: 7579586330819195123
+    second: youbi_11
+  - first:
+      213: 6322080307928491818
+    second: youbi_12
+  - first:
+      213: -3663290168649135537
+    second: youbi_13
+  - first:
+      213: -4412355323971073520
+    second: youbi_14
+  - first:
+      213: 207627178947443779
+    second: youbi_15
+  - first:
+      213: -6992340950750477200
+    second: youbi_16
+  - first:
+      213: -8513558414539324233
+    second: youbi_17
+  - first:
+      213: -3088978600676008545
+    second: youbi_18
+  - first:
+      213: 1966903789614700620
+    second: youbi_19
+  - first:
+      213: 5017864422814991556
+    second: youbi_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 129}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: youbi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe9d71cc95be850800000000000000
+      internalID: 6407313627973021537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 86
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdebf75acfec65d0800000000000000
+      internalID: -3067813593807589899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 86
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e52643c372c03220800000000000000
+      internalID: 2463682798624843235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 86
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac34bae7d23eece0800000000000000
+      internalID: -1374104933364384602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 86
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faba3e0cea41933b0800000000000000
+      internalID: -5532367926454932561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 86
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e24b42342093b120800000000000000
+      internalID: 2428443109219844840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 86
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9942785708b9fcb60800000000000000
+      internalID: 7768598858267305113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d598ff7c41af2e560800000000000000
+      internalID: 7341705309729032541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd5c9599d41b9e0800000000000000
+      internalID: -1607418270963081954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 43
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1756b784fe42f840800000000000000
+      internalID: 5256350527250650909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 43
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d852015f0fc1aed0800000000000000
+      internalID: -2404413061348566824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 43
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f072e80c99103960800000000000000
+      internalID: 7579586330819195123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 43
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27e1935b8a8cb750800000000000000
+      internalID: 6322080307928491818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 43
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4acc742001692dc0800000000000000
+      internalID: -3663290168649135537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a86e3e53a24c2c0800000000000000
+      internalID: -4412355323971073520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf0e6b1d3a1e200800000000000000
+      internalID: 207627178947443779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074c91ac3f636fe90800000000000000
+      internalID: -6992340950750477200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b488de8ab3c9d980800000000000000
+      internalID: -8513558414539324233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d5ceb245eb125d0800000000000000
+      internalID: -3088978600676008545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489a575398db4b10800000000000000
+      internalID: 1966903789614700620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youbi_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 39.285713
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c445f45b1903a540800000000000000
+      internalID: 5017864422814991556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -109.5, y: -27.5}
+      - {x: -131.5, y: -27.5}
+      - {x: -137.5, y: -36.5}
+      - {x: -137.5, y: -60.5}
+      - {x: -133.5, y: -64.5}
+      - {x: -105.5, y: -64.5}
+      - {x: -100.5, y: -62.5}
+      - {x: -100.5, y: -38.5}
+      - {x: -103.5, y: -34.5}
+    - - {x: -89.5, y: -27.5}
+      - {x: -99.5, y: -37.5}
+      - {x: -99.5, y: -64.5}
+      - {x: -61.5, y: -64.5}
+      - {x: -61.5, y: -34.5}
+      - {x: -64.5, y: -27.5}
+    - - {x: -56.5, y: -27.5}
+      - {x: -60.5, y: -37.5}
+      - {x: -60.5, y: -62.5}
+      - {x: -58.5, y: -64.5}
+      - {x: -23.5, y: -64.5}
+      - {x: -22.5, y: -60.5}
+      - {x: -22.5, y: -32.5}
+      - {x: -31.5, y: -27.5}
+    - - {x: -16.5, y: -27.5}
+      - {x: -21.5, y: -38.5}
+      - {x: -21.5, y: -52.5}
+      - {x: -18.5, y: -59.5}
+      - {x: -14.5, y: -62.5}
+      - {x: -12.5, y: -64.5}
+      - {x: 14.5, y: -64.5}
+      - {x: 16.5, y: -57.5}
+      - {x: 16.5, y: -31.5}
+      - {x: 13.5, y: -27.5}
+    - - {x: 22.5, y: -27.5}
+      - {x: 17.5, y: -34.5}
+      - {x: 17.5, y: -54.5}
+      - {x: 21.5, y: -64.5}
+      - {x: 50.5, y: -64.5}
+      - {x: 56.5, y: -62.5}
+      - {x: 56.5, y: -39.5}
+      - {x: 51.5, y: -27.5}
+    - - {x: 60.5, y: -27.5}
+      - {x: 56.5, y: -36.5}
+      - {x: 56.5, y: -60.5}
+      - {x: 61.5, y: -64.5}
+      - {x: 90.5, y: -64.5}
+      - {x: 95.5, y: -56.5}
+      - {x: 95.5, y: -34.5}
+      - {x: 87.5, y: -27.5}
+    - - {x: 95.5, y: -27.5}
+      - {x: 95.5, y: -64.5}
+      - {x: 130.5, y: -64.5}
+      - {x: 134.5, y: -58.5}
+      - {x: 134.5, y: -29.5}
+      - {x: 128.5, y: -27.5}
+    - - {x: -137.5, y: 23.5}
+      - {x: -137.5, y: -17.5}
+      - {x: 137.5, y: -17.5}
+      - {x: 137.5, y: 23.5}
+    - - {x: -130.5, y: 64.5}
+      - {x: -136.5, y: 54.5}
+      - {x: -137.5, y: 53.5}
+      - {x: -137.5, y: 43.5}
+      - {x: -129.5, y: 31.5}
+      - {x: -107.5, y: 31.5}
+      - {x: -98.5, y: 45.5}
+      - {x: -98.5, y: 53.5}
+      - {x: -106.5, y: 64.5}
+    - - {x: -92.5, y: 64.5}
+      - {x: -98.5, y: 54.5}
+      - {x: -98.5, y: 41.5}
+      - {x: -95.5, y: 31.5}
+      - {x: -63.5, y: 31.5}
+      - {x: -59.5, y: 41.5}
+      - {x: -59.5, y: 50.5}
+      - {x: -66.5, y: 64.5}
+    - - {x: -54.5, y: 64.5}
+      - {x: -59.5, y: 52.5}
+      - {x: -59.5, y: 42.5}
+      - {x: -52.5, y: 31.5}
+      - {x: -29.5, y: 31.5}
+      - {x: -25.5, y: 32.5}
+      - {x: -20.5, y: 40.5}
+      - {x: -20.5, y: 53.5}
+      - {x: -26.5, y: 64.5}
+    - - {x: -12.5, y: 64.5}
+      - {x: -20.5, y: 51.5}
+      - {x: -20.5, y: 44.5}
+      - {x: -11.5, y: 31.5}
+      - {x: 10.5, y: 31.5}
+      - {x: 19.5, y: 45.5}
+      - {x: 19.5, y: 53.5}
+      - {x: 11.5, y: 64.5}
+    - - {x: 26.5, y: 64.5}
+      - {x: 19.5, y: 54.5}
+      - {x: 19.5, y: 41.5}
+      - {x: 22.5, y: 31.5}
+      - {x: 54.5, y: 31.5}
+      - {x: 58.5, y: 41.5}
+      - {x: 58.5, y: 50.5}
+      - {x: 51.5, y: 64.5}
+    - - {x: 65.5, y: 64.5}
+      - {x: 58.5, y: 53.5}
+      - {x: 58.5, y: 47.5}
+      - {x: 62.5, y: 37.5}
+      - {x: 66.5, y: 31.5}
+      - {x: 92.5, y: 31.5}
+      - {x: 97.5, y: 44.5}
+      - {x: 97.5, y: 54.5}
+      - {x: 90.5, y: 64.5}
+    - - {x: 105.5, y: 64.5}
+      - {x: 99.5, y: 54.5}
+      - {x: 97.5, y: 51.5}
+      - {x: 97.5, y: 44.5}
+      - {x: 106.5, y: 31.5}
+      - {x: 128.5, y: 31.5}
+      - {x: 137.5, y: 45.5}
+      - {x: 137.5, y: 53.5}
+      - {x: 129.5, y: 64.5}
+    physicsShape:
+    - - {x: -129.5, y: 25.5}
+      - {x: -136.5, y: 62.5}
+      - {x: -93.5, y: 60.5}
+      - {x: -93.5, y: 25.5}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
